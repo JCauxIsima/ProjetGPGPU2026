@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: build_debug
+Diagnostics:
+  UnusedIncludes: Strict
+  MissingIncludes: Strict
